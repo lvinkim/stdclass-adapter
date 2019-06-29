@@ -1,0 +1,10 @@
+{
+  "name": "lvinkim",
+  "age": 18,
+  "address": {
+    "city": "guang zhou"
+  },
+  "tags": [
+    "programmer"
+  ]
+}

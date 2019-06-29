@@ -1,0 +1,11 @@
+/*
+
+!.gitignore
+
+!/src/
+!/tests/
+
+!composer.json
+!composer.lock
+!LICENSE
+!README.md

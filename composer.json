@@ -1,0 +1,23 @@
+{
+  "name": "lvinkim/stdclass-adapter",
+  "authors": [
+    {
+      "name": "Vinkim Lee",
+      "email": "lee.vinkim@yahoo.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Lvinkim\\StdClassAdapter\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.1",
+    "doctrine/annotations": "^1.6"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Lvinkim\\StdClassAdapter\\Tests\\": "tests/"
+    }
+  }
+}

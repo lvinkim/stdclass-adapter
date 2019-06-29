@@ -2,6 +2,12 @@
 
 将一个标准类 stdClass 对象适配成自定义的 class 类对象
 
+#### 安装
+
+```
+$ composer require lvinkim/stdclass-adapter 
+```
+
 #### 应用场景
 
 假设有 json 数据
